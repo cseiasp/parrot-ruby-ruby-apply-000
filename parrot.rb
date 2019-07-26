@@ -3,5 +3,5 @@
 
 def parrot(string)
   puts "#{string}"
-  returns string
+  return string
 end
